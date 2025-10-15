@@ -1,5 +1,4 @@
 This is file b.
 
 This is a change in b. 
-
-Another change in B. 
+Unstaging only b. 
